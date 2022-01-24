@@ -55,6 +55,9 @@ public class main {
 			int sum = 0;
 			for(int j = i; j < n; j++) {
 				sum += data[j];
+				if(sum > max){
+					max = sum;
+				}
 			}
 		}
 		System.out.println("max Sum = " + maxSum);
