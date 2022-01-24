@@ -34,3 +34,31 @@ public class main {
 
 }
 ```
+
+
+
+```java
+public class main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+		int [] data = new int [n];
+		for (int i = 0; i < n; i ++) {
+			data[i] = sc.nextInt();
+		}
+		sc.close();
+		
+		int maxSum = 0;
+		for(int i = 0; i < n; i ++) {
+			int sum = 0;
+			for(int j = i; j < n; j++) {
+				sum += data[j];
+			}
+		}
+		System.out.println("max Sum = " + maxSum);
+	}
+
+}
+```
