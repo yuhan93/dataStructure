@@ -35,6 +35,7 @@ public class main {
 }
 ```
 
+![캡처](https://user-images.githubusercontent.com/56163121/150719019-57764720-c2f5-4fd2-82ae-ab774bfe1327.gif)
 
 
 ```java
