@@ -8,7 +8,7 @@ ex ) \[ 1 , 9, 4 ,0 ,**7 ,1 ,3** ,6 ,2 ,3 \]
 
                     **713 으로 해석**
 
-```
+```java
 public class main {
 
 	public static void main(String[] args) {
@@ -52,3 +52,5 @@ public class main {
 
 }
 ```
+
+![캡처](https://user-images.githubusercontent.com/56163121/150909692-c3d854d8-f218-4fd7-b7b9-326d39a07a85.PNG)
