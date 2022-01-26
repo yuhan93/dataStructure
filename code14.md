@@ -1,6 +1,6 @@
 버블정렬 알고리즘
 
-```
+```java
 public class main {
 
 	public static void main(String[] args) {
@@ -16,11 +16,11 @@ public class main {
 		
 		/*
 		 * [8,4,1,7,11,13,5,2]
-		 * 			↓
+		 * 	   ↓
 		 * [8,1,7,8,11,5,2,13]
-		 * 			↓
+		 * 	   ↓
 		 * [1,4,7,8,5,2,11,13]
-		 * 			↓
+		 * 	   ↓
 		 * [1,4,7,5,2,8,12,13]
 		 * */
 		
@@ -45,3 +45,5 @@ public class main {
 	}
 }
 ```
+
+![캡처](https://user-images.githubusercontent.com/56163121/151099349-effab84a-afea-4f62-bb4b-7074f1b35064.PNG)
